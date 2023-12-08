@@ -1,0 +1,46 @@
+.navbar {
+    height: 109px;
+    width: 1280px;
+  }
+  
+  .navbar .overlap-group {
+    background-color: #ffffff1a;
+    box-shadow: 0px 8px 4px 4px #ffffff14;
+    filter: blur(4px);
+    height: 82px;
+    position: relative;
+  }
+  
+  .navbar .div {
+    align-items: center;
+    display: inline-flex;
+    gap: 40px;
+    justify-content: center;
+    left: 268px;
+    padding: 4px 92px;
+    position: absolute;
+    top: 24px;
+  }
+  
+  .navbar .text-wrapper {
+    color: #eccfe2;
+    font-family: "Koulen-Regular", Helvetica;
+    font-size: 26px;
+    font-weight: 400;
+    height: 44px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    text-shadow: 0px 4px 4px #ffffff66;
+    width: 110px;
+  }
+  
+  .navbar .frame {
+    height: 32px;
+    left: 1058px;
+    position: absolute;
+    top: 34px;
+    width: 160px;
+  }
