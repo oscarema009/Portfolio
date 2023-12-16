@@ -1,0 +1,303 @@
+.contact {
+    background-color: #21153d;
+    height: 832px;
+    overflow: hidden;
+    width: 1280px;
+  }
+  
+  .contact .overlap {
+    height: 1559px;
+    left: -364px;
+    position: relative;
+    top: -514px;
+    width: 2095px;
+  }
+  
+  .contact .group {
+    height: 1559px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2095px;
+  }
+  
+  .contact .overlap-group {
+    height: 1559px;
+    position: relative;
+  }
+  
+  .contact .ellipse {
+    background: radial-gradient(50% 50% at 50% 50%, rgba(162, 89, 255, 0.12) 53.65%, rgba(162, 89, 255, 0) 92.71%);
+    border-radius: 502.5px/475.5px;
+    height: 951px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1005px;
+  }
+  
+  .contact .div {
+    background: radial-gradient(50% 50% at 50% 50%, rgba(162, 89, 255, 0.12) 53.65%, rgba(162, 89, 255, 0) 92.71%);
+    border-radius: 546px/434.5px;
+    height: 869px;
+    left: 1003px;
+    position: absolute;
+    top: 690px;
+    width: 1092px;
+  }
+  
+  .contact .contacto {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    height: 447px;
+    left: 591px;
+    position: absolute;
+    top: 827px;
+    width: 825px;
+  }
+  
+  .contact .frame {
+    -webkit-backdrop-filter: blur(200px) brightness(100%);
+    backdrop-filter: blur(200px) brightness(100%);
+   
+    background-position: 50% 50%;
+    background-size: cover;
+    border: 0.6px solid;
+    border-color: transparent;
+    border-image: linear-gradient(to bottom, rgb(132.17, 122.22, 246.5), rgb(188.06, 34.48, 34.48)) 1;
+    border-radius: 20px;
+    box-shadow: 1px 3px 4px #3935ee40;
+    height: 447px;
+    margin-left: -3.5px;
+    margin-right: -3.5px;
+    position: relative;
+    width: 832px;
+  }
+  
+  .contact .subtitulo {
+    color: #000000;
+    font-family: "Karla-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 295px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 90px;
+    white-space: nowrap;
+  }
+  
+  .contact .titulo {
+    color: #21153d;
+    font-family: "Karla-Bold", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 306px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 38px;
+    white-space: nowrap;
+  }
+  
+  .contact .inputs {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 29px;
+    height: 225px;
+    left: 295px;
+    position: absolute;
+    top: 130px;
+    width: 470px;
+  }
+  
+  .contact .overlap-group-wrapper {
+    height: 40px;
+    margin-right: -2px;
+    position: relative;
+    width: 472px;
+  }
+  
+  .contact .div-wrapper {
+    background-color: #ffffff;
+    border: 0.4px solid;
+    border-color: #000000;
+    border-radius: 5px;
+    height: 40px;
+    position: relative;
+    width: 470px;
+  }
+  
+  .contact .text-wrapper {
+    color: #000000;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-size: 12px;
+    font-weight: 200;
+    left: 38px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 9px;
+    width: 249px;
+  }
+  
+  .contact .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-size: 12px;
+    font-weight: 200;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 13px;
+    white-space: nowrap;
+    width: 295px;
+  }
+  
+  .contact .mensaje {
+    height: 87px;
+    margin-right: -2px;
+    position: relative;
+    width: 472px;
+  }
+  
+  .contact .overlap-2 {
+    background-color: #ffffff;
+    border: 0.5px solid;
+    border-color: #000000;
+    border-radius: 5px;
+    height: 87px;
+    position: relative;
+    width: 470px;
+  }
+  
+  .contact .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-ExtraLight", Helvetica;
+    font-size: 12px;
+    font-weight: 200;
+    left: 43px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 16px;
+    width: 299px;
+  }
+  
+  .contact .button {
+    all: unset;
+    box-sizing: border-box;
+    height: 28px;
+    left: 616px;
+    position: absolute;
+    top: 380px;
+    width: 81px;
+  }
+  
+  .contact .overlap-3 {
+    background-color: #a259ff;
+    border-radius: 10px;
+    height: 28px;
+    position: relative;
+    width: 79px;
+  }
+  
+  .contact .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Inika-Regular", Helvetica;
+    font-size: 12px;
+    font-weight: 400;
+    left: 18px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 6px;
+  }
+  
+  .contact .informacion {
+    height: 447px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 264px;
+  }
+  
+  .contact .overlap-4 {
+    background-color: #ffffff66;
+    border-radius: 20px;
+    box-shadow: 0px 2px 4px 1px #605dff40;
+    height: 447px;
+    position: relative;
+    width: 260px;
+  }
+  
+  .contact .vector {
+    height: 32px;
+    left: 20px;
+    position: absolute;
+    top: 317px;
+    width: 32px;
+  }
+  
+  .contact .img {
+    height: 32px;
+    left: 20px;
+    position: absolute;
+    top: 377px;
+    width: 32px;
+  }
+  
+  .contact .text-wrapper-5 {
+    color: #000000;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    height: 15px;
+    left: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 385px;
+    white-space: nowrap;
+  }
+  
+  .contact .text-wrapper-6 {
+    color: #000000;
+    font-family: "Roboto-Regular", Helvetica;
+    font-size: 13px;
+    font-weight: 400;
+    height: 29px;
+    left: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 319px;
+    width: 167px;
+  }
+  
+  .contact .element {
+    height: 261px;
+    left: 21px;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 211px;
+  }
+  
+  .contact .ready-to-bring {
+    color: #ffffff;
+    font-family: "Koulen-Regular", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 432px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 591px;
+    width: 662px;
+  }
+  

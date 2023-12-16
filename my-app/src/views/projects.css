@@ -1,0 +1,137 @@
+.portfolio {
+    background-color: #21153d;
+    height: 832px;
+    overflow: hidden;
+    width: 1280px;
+  }
+  
+  .portfolio .overlap {
+    height: 1384px;
+    left: -335px;
+    position: relative;
+    top: -254px;
+    width: 2059px;
+  }
+  
+  .portfolio .group {
+    height: 1384px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 2059px;
+  }
+  
+  .portfolio .overlap-group {
+    height: 1384px;
+    position: relative;
+  }
+  
+  .portfolio .ellipse {
+    background: radial-gradient(50% 50% at 50% 50%, rgba(162, 89, 255, 0.12) 53.65%, rgba(162, 89, 255, 0) 92.71%);
+    border-radius: 502.5px/475.5px;
+    height: 951px;
+    left: 0;
+    position: absolute;
+    top: 433px;
+    width: 1005px;
+  }
+  
+  .portfolio .div {
+    background: radial-gradient(50% 50% at 50% 50%, rgba(162, 89, 255, 0.12) 53.65%, rgba(162, 89, 255, 0) 92.71%);
+    border-radius: 546px/434.5px;
+    height: 869px;
+    left: 967px;
+    position: absolute;
+    top: 0;
+    width: 1092px;
+  }
+  
+  .portfolio .frame {
+    align-items: flex-start;
+    display: inline-flex;
+    flex-direction: column;
+    left: 374px;
+    position: absolute;
+    top: 529px;
+  }
+  
+  .portfolio .frame-2 {
+    align-items: flex-start;
+    display: flex;
+    flex: 0 0 auto;
+    gap: 64px;
+    position: relative;
+    width: 1188px;
+  }
+  
+  .portfolio .text-wrapper {
+    color: #eccfe2;
+    font-family: "Koulen-Regular", Helvetica;
+    font-size: 30px;
+    font-weight: 400;
+    height: 56px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    text-shadow: 4px 4px 3px #ffffff4c;
+    width: 348px;
+  }
+  
+  .portfolio .frame-3 {
+    align-items: flex-start;
+    display: inline-flex;
+    flex: 0 0 auto;
+    gap: 69px;
+    position: relative;
+  }
+  
+  .portfolio .rectangle {
+    height: 188px;
+    margin-bottom: -8px;
+    object-fit: cover;
+    position: relative;
+    width: 358px;
+  }
+  
+  .portfolio .img {
+    height: 188px;
+    margin-bottom: -8px;
+    margin-right: -8px;
+    object-fit: cover;
+    position: relative;
+    width: 358px;
+  }
+  
+  .portfolio .boosting-financial {
+    color: #eccfe2;
+    font-family: "Roboto-SemiBoldItalic", Helvetica;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 600;
+    height: 260px;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    text-align: center;
+    text-shadow: 4px 4px 2px #ffffff1a;
+    width: 350px;
+  }
+  
+  .portfolio .p {
+    color: #ffffff;
+    font-family: "Koulen-Regular", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    height: 61px;
+    left: 374px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 434px;
+    width: 1201px;
+  }
+  
