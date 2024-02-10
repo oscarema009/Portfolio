@@ -61,7 +61,6 @@
   .contact .frame {
     -webkit-backdrop-filter: blur(200px) brightness(100%);
     backdrop-filter: blur(200px) brightness(100%);
-   
     background-position: 50% 50%;
     background-size: cover;
     border: 0.6px solid;
